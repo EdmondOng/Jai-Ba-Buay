@@ -1,0 +1,161 @@
+2020-04-03 23:39:00,717 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2020-04-03 23:39:01,498 [    781]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IC-191.6183.87, 27 Mar 2019 14:26) 
+2020-04-03 23:39:01,498 [    781]   INFO -        #com.intellij.idea.Main - OS: Mac OS X (10.15.3, x86_64) 
+2020-04-03 23:39:01,498 [    781]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_202-release-1483-b39 (JetBrains s.r.o) 
+2020-04-03 23:39:01,498 [    781]   INFO -        #com.intellij.idea.Main - JVM: 25.202-b39 (OpenJDK 64-Bit Server VM) 
+2020-04-03 23:39:01,805 [   1088]   INFO -        #com.intellij.idea.Main - JVM Args: -Dapple.awt.fileDialogForDirectories=true -Dapple.laf.useScreenMenuBar=true -Didea.auto.reload.plugins=true -Didea.classpath.index.enabled=false -Didea.config.path=/Users/edmondong/Downloads/Project/JiaBaBuay/build/idea-sandbox/config -Didea.is.internal=true -Didea.platform.prefix=Idea -Didea.plugins.path=/Users/edmondong/Downloads/Project/JiaBaBuay/build/idea-sandbox/plugins -Didea.smooth.progress=false -Didea.system.path=/Users/edmondong/Downloads/Project/JiaBaBuay/build/idea-sandbox/system -Xms256m -Xmx512m -Dfile.encoding=UTF-8 -Duser.country=SG -Duser.language=en -Duser.variant -ea 
+2020-04-03 23:39:01,805 [   1088]   INFO -        #com.intellij.idea.Main - ext: /Users/edmondong/.gradle/caches/modules-2/files-2.1/com.jetbrains/jbre/jbrx-8u202-osx-x64-b1483.39/jdk/Contents/Home/jre/lib/ext: [sunec.jar, nashorn.jar, cldrdata.jar, jfxrt.jar, dnsns.jar, localedata.jar, sunjce_provider.jar, meta-index, sunpkcs11.jar, jaccess.jar, zipfs.jar] 
+2020-04-03 23:39:01,805 [   1088]   INFO -        #com.intellij.idea.Main - ext: /System/Library/Java/Extensions: [MRJToolkit.jar] 
+2020-04-03 23:39:01,805 [   1088]   INFO -        #com.intellij.idea.Main - charsets: JNU=UTF-8 file=UTF-8 
+2020-04-03 23:39:01,867 [   1150]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 61 ms 
+2020-04-03 23:39:02,671 [   1954]   INFO - .intellij.idea.IdeaApplication - CPU cores: 12; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@3a7b4c84[Running, parallelism = 12, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@45fd7e19 
+2020-04-03 23:39:02,916 [   2199]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2020-04-03 23:39:02,917 [   2200]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-detection-groovy.xml 
+2020-04-03 23:39:03,079 [   2362]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 260 ms 
+2020-04-03 23:39:03,150 [   2433]   INFO - llij.ide.plugins.PluginManager - 34 plugins initialized in 343 ms 
+2020-04-03 23:39:03,151 [   2434]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android Support (10.3.3), Ant Support (191.6183.87), Bytecode Viewer (191.6183.87), Copyright (191.6183.87), Coverage (191.6183.87), Eclipse Integration (191.6183.87), EditorConfig (191.6183.87), Git Integration (191.6183.87), GitHub (191.6183.87), Gradle (191.6183.87), Groovy (191.6183.87), I18n for Java (191.6183.87), IDEA CORE (191.6183.87), IntelliJ Configuration Script (191.6183.87), IntelliLang (191.6183.87), JUnit (191.6183.87), Java Bytecode Decompiler (191.6183.87), Java Stream Debugger (191.6183.87), JavaFX (191.6183.87), Kotlin (1.3.21-release-IJ2019.1-2), Maven Integration (191.6183.87), Mercurial Integration (191.6183.87), Plugin DevKit (191.6183.87), Properties Support (191.6183.87), Settings Repository (191.6183.87), Smali Support (191.6183.87), Subversion (191.6183.87), Task Management (191.6183.87), Terminal (191.6183.87), TestNG-J (191.6183.87), UI Designer (191.6183.87), XPathView + XSLT Support (191.6183.87), XSLT-Debugger (191.6183.87), YAML (191.6183.87) 
+2020-04-03 23:39:03,213 [   2496]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2020-04-03 23:39:03,214 [   2497]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2020-04-03 23:39:04,178 [   3461]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: '/Users/edmondong/Downloads/Project/JiaBaBuay/build/idea-sandbox/system/caches/names.dat' does not exist 
+2020-04-03 23:39:04,181 [   3464]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=435; buffer=10; max=435 
+2020-04-03 23:39:04,233 [   3516]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is disabled 
+2020-04-03 23:39:05,011 [   4294]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2020-04-03 23:39:05,017 [   4300]   WARN - com.intellij.util.xmlb.Binding - no accessors for interface com.intellij.openapi.extensions.PluginDescriptor 
+2020-04-03 23:39:05,027 [   4310]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63343 
+2020-04-03 23:39:05,118 [   4401]   INFO - m.intellij.ui.mac.touchbar.NST - The graphics environment is headless, skip nst loading 
+2020-04-03 23:39:05,300 [   4583]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:107, number of extensions:47 
+2020-04-03 23:39:05,306 [   4589]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:6 
+2020-04-03 23:39:05,323 [   4606]   INFO - il.indexing.FileBasedIndexImpl - Index FilenameIndex will be built. 
+2020-04-03 23:39:05,334 [   4617]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:25, number of extensions:50 
+2020-04-03 23:39:05,334 [   4617]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2020-04-03 23:39:05,347 [   4630]   INFO - il.indexing.FileBasedIndexImpl - Index filetypes will be built. 
+2020-04-03 23:39:05,349 [   4632]   INFO - il.indexing.FileBasedIndexImpl - Index java.auto.module.name will be built. 
+2020-04-03 23:39:05,351 [   4634]   INFO - il.indexing.FileBasedIndexImpl - Index GroovyDslFileIndex will be built. 
+2020-04-03 23:39:05,380 [   4663]   INFO - il.indexing.FileBasedIndexImpl - Index FrameworkDetectionIndex will be built. 
+2020-04-03 23:39:05,397 [   4680]   INFO - il.indexing.FileBasedIndexImpl - Index TodoIndex will be built. 
+2020-04-03 23:39:05,452 [   4735]   INFO - il.indexing.FileBasedIndexImpl - Index IdIndex will be built. 
+2020-04-03 23:39:05,455 [   4738]   INFO - il.indexing.FileBasedIndexImpl - Index Stubs will be built. 
+2020-04-03 23:39:05,601 [   4884]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:CLASS,JAVA,HTML,Properties,DGM File Type,Kotlin,KJSM,XML,kotlin_builtins,Groovy,KNM 
+2020-04-03 23:39:05,789 [   5072]   INFO - il.indexing.FileBasedIndexImpl - Index Trigram.Index will be built. 
+2020-04-03 23:39:05,799 [   5082]   INFO - il.indexing.FileBasedIndexImpl - Index fileIncludes will be built. 
+2020-04-03 23:39:05,805 [   5088]   INFO - il.indexing.FileBasedIndexImpl - Index DomFileIndex will be built. 
+2020-04-03 23:39:05,809 [   5092]   INFO - il.indexing.FileBasedIndexImpl - Index RelaxSymbolIndex will be built. 
+2020-04-03 23:39:05,814 [   5097]   INFO - il.indexing.FileBasedIndexImpl - Index XmlTagNames will be built. 
+2020-04-03 23:39:05,817 [   5100]   INFO - il.indexing.FileBasedIndexImpl - Index XmlNamespaces will be built. 
+2020-04-03 23:39:05,821 [   5104]   INFO - il.indexing.FileBasedIndexImpl - Index html5.custom.attributes.index will be built. 
+2020-04-03 23:39:05,824 [   5107]   INFO - il.indexing.FileBasedIndexImpl - Index SchemaTypeInheritance will be built. 
+2020-04-03 23:39:05,827 [   5110]   INFO - il.indexing.FileBasedIndexImpl - Index json.file.root.values will be built. 
+2020-04-03 23:39:05,830 [   5113]   INFO - il.indexing.FileBasedIndexImpl - Index ImageFileInfoIndex will be built. 
+2020-04-03 23:39:05,833 [   5116]   INFO - il.indexing.FileBasedIndexImpl - Index bytecodeAnalysis will be built. 
+2020-04-03 23:39:05,838 [   5121]   INFO - il.indexing.FileBasedIndexImpl - Index java.null.method.argument will be built. 
+2020-04-03 23:39:05,843 [   5126]   INFO - il.indexing.FileBasedIndexImpl - Index java.simple.property will be built. 
+2020-04-03 23:39:05,850 [   5133]   INFO - il.indexing.FileBasedIndexImpl - Index java.fun.expression will be built. 
+2020-04-03 23:39:05,853 [   5136]   INFO - il.indexing.FileBasedIndexImpl - Index java.binary.plus.expression will be built. 
+2020-04-03 23:39:05,858 [   5141]   INFO - il.indexing.FileBasedIndexImpl - Index jvm.hierarchy will be built. 
+2020-04-03 23:39:05,863 [   5146]   INFO - il.indexing.FileBasedIndexImpl - Index RefQueueIndex will be built. 
+2020-04-03 23:39:05,867 [   5150]   INFO - il.indexing.FileBasedIndexImpl - Index XsltSymbolIndex will be built. 
+2020-04-03 23:39:05,869 [   5152]   INFO - il.indexing.FileBasedIndexImpl - Index xmlProperties will be built. 
+2020-04-03 23:39:05,871 [   5154]   INFO - il.indexing.FileBasedIndexImpl - Index ant-imports will be built. 
+2020-04-03 23:39:05,873 [   5156]   INFO - il.indexing.FileBasedIndexImpl - Index FormClassIndex will be built. 
+2020-04-03 23:39:05,875 [   5158]   INFO - il.indexing.FileBasedIndexImpl - Index editorconfig.index.name will be built. 
+2020-04-03 23:39:05,878 [   5161]   INFO - il.indexing.FileBasedIndexImpl - Index groovy.trait.fields will be built. 
+2020-04-03 23:39:05,881 [   5164]   INFO - il.indexing.FileBasedIndexImpl - Index groovy.trait.methods will be built. 
+2020-04-03 23:39:05,883 [   5166]   INFO - il.indexing.FileBasedIndexImpl - Index IdeaPluginRegistrationIndex will be built. 
+2020-04-03 23:39:05,886 [   5169]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex will be built. 
+2020-04-03 23:39:05,889 [   5172]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex will be built. 
+2020-04-03 23:39:05,891 [   5174]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex will be built. 
+2020-04-03 23:39:05,893 [   5176]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex will be built. 
+2020-04-03 23:39:05,901 [   5184]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex will be built. 
+2020-04-03 23:39:05,904 [   5187]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex will be built. 
+2020-04-03 23:39:05,907 [   5190]   INFO - plication.impl.ApplicationImpl - 72 application components initialized in 2660ms 
+2020-04-03 23:39:05,907 [   5190]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex will be built. 
+2020-04-03 23:39:05,910 [   5193]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex will be built. 
+2020-04-03 23:39:05,913 [   5196]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex will be built. 
+2020-04-03 23:39:05,918 [   5201]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.ide.konan.index.KotlinNativeMetaFileIndex will be built. 
+2020-04-03 23:39:05,921 [   5204]   INFO - il.indexing.FileBasedIndexImpl - Index JavaFxControllerClassIndex will be built. 
+2020-04-03 23:39:05,923 [   5206]   INFO - il.indexing.FileBasedIndexImpl - Index javafx.id.name will be built. 
+2020-04-03 23:39:05,925 [   5208]   INFO - il.indexing.FileBasedIndexImpl - Index javafx.custom.component will be built. 
+2020-04-03 23:39:05,927 [   5210]   INFO - il.indexing.FileBasedIndexImpl - Index yaml.keys.name will be built. 
+2020-04-03 23:39:05,935 [   5218]   INFO - pl$FileIndexDataInitialization - Initialization done:628 
+2020-04-03 23:39:05,937 [   5220]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index dom.namespaceKey will be built. 
+2020-04-03 23:39:05,988 [   5271]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index dom.elementClass will be built. 
+2020-04-03 23:39:05,990 [   5273]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.module.name will be built. 
+2020-04-03 23:39:05,993 [   5276]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.method.parameter.types will be built. 
+2020-04-03 23:39:05,995 [   5278]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.class.extlist will be built. 
+2020-04-03 23:39:05,996 [   5279]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.class.shortname will be built. 
+2020-04-03 23:39:05,998 [   5281]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index jvm.static.member.type will be built. 
+2020-04-03 23:39:06,000 [   5283]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index jvm.static.member.name will be built. 
+2020-04-03 23:39:06,001 [   5284]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.method.name will be built. 
+2020-04-03 23:39:06,003 [   5286]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.class.fqn will be built. 
+2020-04-03 23:39:06,005 [   5288]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.field.name will be built. 
+2020-04-03 23:39:06,006 [   5289]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.anonymous.baseref will be built. 
+2020-04-03 23:39:06,008 [   5291]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.annotations will be built. 
+2020-04-03 23:39:06,010 [   5293]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index properties.index will be built. 
+2020-04-03 23:39:06,013 [   5296]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index gr.class.fqn will be built. 
+2020-04-03 23:39:06,018 [   5301]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index gr.script.fqn will be built. 
+2020-04-03 23:39:06,029 [   5312]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index gr.field.name will be built. 
+2020-04-03 23:39:06,031 [   5314]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index gr.method.name will be built. 
+2020-04-03 23:39:06,033 [   5316]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index gr.annot.method.name will be built. 
+2020-04-03 23:39:06,036 [   5319]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index gr.annot.members will be built. 
+2020-04-03 23:39:06,038 [   5321]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index gr.script.class will be built. 
+2020-04-03 23:39:06,042 [   5325]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index gr.class.super will be built. 
+2020-04-03 23:39:06,044 [   5327]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index gr.anonymous.class will be built. 
+2020-04-03 23:39:06,046 [   5329]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinExactPackagesIndex will be built. 
+2020-04-03 23:39:06,049 [   5332]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelClassByPackageIndex will be built. 
+2020-04-03 23:39:06,051 [   5334]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionByPackageIndex will be built. 
+2020-04-03 23:39:06,055 [   5338]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyByPackageIndex will be built. 
+2020-04-03 23:39:06,058 [   5341]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasByPackageIndex will be built. 
+2020-04-03 23:39:06,062 [   5345]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinClassShortNameIndex will be built. 
+2020-04-03 23:39:06,065 [   5348]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinFullClassNameIndex will be built. 
+2020-04-03 23:39:06,068 [   5351]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinPropertyShortNameIndex will be built. 
+2020-04-03 23:39:06,070 [   5353]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinFunctionShortNameIndex will be built. 
+2020-04-03 23:39:06,072 [   5355]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasShortNameIndex will be built. 
+2020-04-03 23:39:06,075 [   5358]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinSuperClassIndex will be built. 
+2020-04-03 23:39:06,079 [   5362]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionFqnNameIndex will be built. 
+2020-04-03 23:39:06,082 [   5365]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyFqnNameIndex will be built. 
+2020-04-03 23:39:06,084 [   5367]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasFqNameIndex will be built. 
+2020-04-03 23:39:06,086 [   5369]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelExtensionsByReceiverTypeIndex will be built. 
+2020-04-03 23:39:06,087 [   5370]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinAnnotationsIndex will be built. 
+2020-04-03 23:39:06,089 [   5372]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingFunctionShortNameIndex will be built. 
+2020-04-03 23:39:06,090 [   5373]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingPropertyShortNameIndex will be built. 
+2020-04-03 23:39:06,092 [   5375]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinProbablyContractedFunctionShortNameIndex will be built. 
+2020-04-03 23:39:06,094 [   5377]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeFqNameIndex will be built. 
+2020-04-03 23:39:06,096 [   5379]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex will be built. 
+2020-04-03 23:39:06,097 [   5380]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex will be built. 
+2020-04-03 23:39:06,099 [   5382]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex will be built. 
+2020-04-03 23:39:06,101 [   5384]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex will be built. 
+2020-04-03 23:39:06,104 [   5387]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex will be built. 
+2020-04-03 23:39:06,106 [   5389]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex will be built. 
+2020-04-03 23:39:06,107 [   5390]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex will be built. 
+2020-04-03 23:39:06,109 [   5392]   INFO - exImpl$StubIndexInitialization - Initialization done:173 
+2020-04-03 23:39:06,244 [   5527]   INFO - ellij.project.impl.ProjectImpl - 20 project components initialized in 326 ms 
+2020-04-03 23:39:06,660 [   5943]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2020-04-03 23:39:08,015 [   7298]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2020-04-03 23:39:08,700 [   7983]   INFO - CompilerWorkspaceConfiguration - Available processors: 12 
+2020-04-03 23:39:09,655 [   8938]   INFO - pi.util.registry.RegistryValue - Registry value 'java.completion.argument.hints' has changed to 'false' 
+2020-04-03 23:39:09,655 [   8938]   INFO - pi.util.registry.RegistryValue - Registry value 'java.completion.argument.hints.internal' has changed to 'false' 
+2020-04-03 23:39:10,365 [   9648]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2020-04-03 23:39:16,976 [  16259]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2020-04-03 23:39:16,977 [  16260]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2020-04-03 23:39:16,977 [  16260]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2020-04-03 23:39:16,988 [  16271]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2020-04-03 23:39:16,990 [  16273]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2020-04-03 23:39:16,990 [  16273]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 0 auto-detected files
+Elapsed time on auto-detect: 0 ms 
+2020-04-03 23:39:17,000 [  16283]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2020-04-03 23:39:17,007 [  16290]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2020-04-03 23:39:17,008 [  16291]   INFO - plication.impl.ApplicationImpl - Write action Statistics:
+Event number:     0
+Total time spent: 0ms
+Average duration: 0ms
+Median  duration: 0ms
+Max     duration: 0ms (it was 'null') 
+2020-04-03 23:39:17,008 [  16291]   INFO - plication.impl.ApplicationImpl - AnAction.update() Statistics:
+Event number:     0
+Total time spent: 0ms
+Average duration: 0ms
+Median  duration: 0ms
+Max     duration: 0ms (it was 'null') 
+2020-04-03 23:39:17,009 [  16292]   INFO - plication.impl.ApplicationImpl - Global instance threads created counter = 12; ProcessIOExecutorService threads: 0 
+2020-04-03 23:39:17,010 [  16293]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2020-04-03 23:39:17,011 [  16294]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
