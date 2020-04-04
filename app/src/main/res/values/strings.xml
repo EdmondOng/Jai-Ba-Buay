@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JiaBaBuay</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="signup">Signup</string>
+    <string name="login">Previous</string>
+    <string name="introduction">Introduction</string>
+</resources>
